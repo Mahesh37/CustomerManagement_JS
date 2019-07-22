@@ -1,0 +1,57 @@
+#taskName{
+    color: aquamarine
+
+}
+form{
+    width: 400;
+}
+#userInputs{
+    border: 1px solid black;
+    width: 30em;
+    padding-top : 30px;
+    padding-left: 0px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+#mainDiv{
+    padding-top : 20px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    padding-right: 200px;
+}
+#tableDiv{
+    padding-top: 30px;
+}
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: left;
+}
+#mmNum{
+    float: right;
+}
+.ppadDiv {
+    padding-top : 10px;
+    padding-left: 250px;
+    padding-bottom: 10px;
+    padding-right: 350px;
+}
+th,
+td,
+p,
+input {
+    font: 14px Verdana;
+}
+
+table,
+th,
+td {
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
